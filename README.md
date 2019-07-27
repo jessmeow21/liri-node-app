@@ -20,4 +20,25 @@ Output: This will display a list of all the events and locations that the artist
 
 2. Command: 
 node liri.js spotify-this-song <name of song>
-Output: This will display 
+Output: This will display a list of information related to the song. The app will log the results in the log.txt file. 
+
+3. Command:
+node liri.js movie-this <name of movie>
+Output: The app will display information of the movie. The results will also be logged.
+
+4. Command:
+node liri.js do-what-it-says
+Output: The app will read random.txt file and perform the command written in the file.
+
+Tech used
+..*Javascript
+..*Nodejs
+..*Node packages: 
+*Node-Spotify-API
+*Moment
+*DotEnv
+..*APIs:
+*Bands in Town
+*OMDb
+
+
