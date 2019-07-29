@@ -36,7 +36,7 @@ Tech used
 * Node-Spotify-API
     * Moment
     * DotEnv
-*APIs:
+* APIs:
     *Spotify
     * Bands in Town
     * OMDb
