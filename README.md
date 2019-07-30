@@ -1,5 +1,5 @@
 # liri-node-app
-About: Liri is a CLI app (command-line interface). Liri is a language interpretation and recognition interface. LIRI will be performed on the command line using node that takes in parameters and gives you back data.
+## About: Liri is a CLI app (command-line interface). Liri is a language interpretation and recognition interface. LIRI will be performed on the command line using node that takes in parameters and gives you back data.
 
 Using the Spotify api, you can search for songs.
 Using the Bands in Town api you can search for concerts
@@ -12,7 +12,7 @@ The commands the user may use are:
 * movie-this
 * do-what-it-says
 ---
-How to use LIRI App:
+## How to use LIRI App:
 
 1. Open your terminal
 2. Open file liri.js 
@@ -34,7 +34,7 @@ node liri.js movie-this <name of movie>
 node liri.js do-what-it-says
     * Output: The app will read random.txt file and perform the command written in the file.
 
-Tech used
+## Tech used
 * Javascript
 * Nodejs
 * Node packages: 
@@ -45,7 +45,7 @@ Tech used
     * Moment
     * DotEnv
 * APIs:
-    *Spotify
+    * Spotify
     * Bands in Town
     * OMDb
 
