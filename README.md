@@ -1,5 +1,6 @@
 # liri-node-app
-## About: Liri is a CLI app (command-line interface). Liri is a language interpretation and recognition interface. LIRI will be performed on the command line using node that takes in parameters and gives you back data.
+## About: 
+Liri is a CLI app (command-line interface). Liri is a language interpretation and recognition interface. LIRI will be performed on the command line using node that takes in parameters and gives you back data.
 
 Using the Spotify api, you can search for songs.
 Using the Bands in Town api you can search for concerts
