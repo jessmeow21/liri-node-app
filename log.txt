@@ -654,3 +654,293 @@ preview song: https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd0
 album: Timeless Love
 artist(s): Love Hits On Piano
 *****************************
+**********SONG INFO*********
+0
+song name: Panini
+preview song: https://p.scdn.co/mp3-preview/8871fb467ee763bec16fe5260c103a1bb9e852d4?cid=88e344dd89374239932abb834f1ac98e
+album: 7 EP
+artist(s): Lil Nas X
+*****************************
+**********SONG INFO*********
+1
+song name: 7 rings
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+2
+song name: Rodeo
+preview song: https://p.scdn.co/mp3-preview/f618f9939f60ff4db2122bfd45a7e58be558d583?cid=88e344dd89374239932abb834f1ac98e
+album: 7 EP
+artist(s): Lil Nas X
+*****************************
+**********SONG INFO*********
+3
+song name: Seven Nation Army
+preview song: https://p.scdn.co/mp3-preview/d5c742f7e2d651d8f34761e045cfbcdb76f6b077?cid=88e344dd89374239932abb834f1ac98e
+album: Elephant
+artist(s): The White Stripes
+*****************************
+**********SONG INFO*********
+4
+song name: C7osure (You Like)
+preview song: https://p.scdn.co/mp3-preview/956f7d4f472cbcee0b81ad051fda28c024c5d195?cid=88e344dd89374239932abb834f1ac98e
+album: 7 EP
+artist(s): Lil Nas X
+*****************************
+**********SONG INFO*********
+5
+song name: 7 Years
+preview song: https://p.scdn.co/mp3-preview/3261944a4e12e2c7bee9266b1b14558e71a97964?cid=88e344dd89374239932abb834f1ac98e
+album: Lukas Graham
+artist(s): Lukas Graham
+*****************************
+**********SONG INFO*********
+6
+song name: 24/7 (feat. Ella Mai)
+preview song: https://p.scdn.co/mp3-preview/ab0ba28f39a31d6dfe70fd97e47835d93f99db49?cid=88e344dd89374239932abb834f1ac98e
+album: Championships
+artist(s): Meek Mill
+*****************************
+**********SONG INFO*********
+7
+song name: 6 Foot 7 Foot
+preview song: null
+album: Tha Carter IV (Deluxe)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+8
+song name: Summer At 7
+preview song: https://p.scdn.co/mp3-preview/6a80b0b6f3c2be7958ab91ae63b6d4cf8ad02ae8?cid=88e344dd89374239932abb834f1ac98e
+album: Summer At 7
+artist(s): Russ
+*****************************
+**********SONG INFO*********
+9
+song name: 7/11
+preview song: https://p.scdn.co/mp3-preview/c17eaf47f9624029dadcd7672b7896c84923e28c?cid=88e344dd89374239932abb834f1ac98e
+album: BEYONCÉ [Platinum Edition]
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+10
+song name: Work from Home (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/b2d6e6ea9163eb361f5406f75264de490243964a?cid=88e344dd89374239932abb834f1ac98e
+album: 7/27 (Deluxe)
+artist(s): Fifth Harmony
+*****************************
+**********SONG INFO*********
+11
+song name: Kick It
+preview song: https://p.scdn.co/mp3-preview/bb1a58dbb2c8459e8599b767ad370a67af1cade5?cid=88e344dd89374239932abb834f1ac98e
+album: 7 EP
+artist(s): Lil Nas X
+*****************************
+**********SONG INFO*********
+12
+song name: F9mily (You & Me)
+preview song: https://p.scdn.co/mp3-preview/1dc1e1cf4994a429ccf918956ad999bb86f153b5?cid=88e344dd89374239932abb834f1ac98e
+album: 7 EP
+artist(s): Lil Nas X
+*****************************
+**********SONG INFO*********
+13
+song name: El Monstro 7
+preview song: https://p.scdn.co/mp3-preview/a5a0cff1ff790f5d4c7488a3905190fd0002bef1?cid=88e344dd89374239932abb834f1ac98e
+album: Lo Prometido Es Deuda Vol.2
+artist(s): El de La Guitarra
+*****************************
+**********SONG INFO*********
+14
+song name: 24 / 7 / 365
+preview song: https://p.scdn.co/mp3-preview/b56b25e673e6b128d8c80a914de0819e4d2992d3?cid=88e344dd89374239932abb834f1ac98e
+album: Surf
+artist(s): Surfaces
+*****************************
+**********SONG INFO*********
+15
+song name: 7 Minutes
+preview song: null
+album: 7 Minutes
+artist(s): Dean Lewis
+*****************************
+**********SONG INFO*********
+16
+song name: Old Town Road - Remix
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=88e344dd89374239932abb834f1ac98e
+album: 7 EP
+artist(s): Lil Nas X
+*****************************
+**********SONG INFO*********
+17
+song name: Bring U Down
+preview song: https://p.scdn.co/mp3-preview/4eef4620947b261766ae25e04e3c4c11bc607a5e?cid=88e344dd89374239932abb834f1ac98e
+album: 7 EP
+artist(s): Lil Nas X
+*****************************
+**********SONG INFO*********
+18
+song name: 7 & 7
+preview song: https://p.scdn.co/mp3-preview/986a0dfa7eb39ba0c4bc38b2522a89ec79346050?cid=88e344dd89374239932abb834f1ac98e
+album: Diamonds & Gasoline
+artist(s): Turnpike Troubadours
+*****************************
+**********SONG INFO*********
+19
+song name: Say My Name
+preview song: https://p.scdn.co/mp3-preview/89e0ed2f21273e777832d67de4851c8137ee5c8d?cid=88e344dd89374239932abb834f1ac98e
+album: 7
+artist(s): David Guetta
+*****************************
+**********MOVIE INFO*********
+Title: Batman
+Release Year: 1989
+IMDB Rating: 7.6
+Rotten Tomatoes Rating: 71%
+Country of Production: USA, UK
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=88e344dd89374239932abb834f1ac98e
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=88e344dd89374239932abb834f1ac98e
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=88e344dd89374239932abb834f1ac98e
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=88e344dd89374239932abb834f1ac98e
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=88e344dd89374239932abb834f1ac98e
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=88e344dd89374239932abb834f1ac98e
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=88e344dd89374239932abb834f1ac98e
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=88e344dd89374239932abb834f1ac98e
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=88e344dd89374239932abb834f1ac98e
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+11
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=88e344dd89374239932abb834f1ac98e
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=88e344dd89374239932abb834f1ac98e
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=88e344dd89374239932abb834f1ac98e
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=88e344dd89374239932abb834f1ac98e
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=88e344dd89374239932abb834f1ac98e
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=88e344dd89374239932abb834f1ac98e
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+17
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=88e344dd89374239932abb834f1ac98e
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=88e344dd89374239932abb834f1ac98e
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=88e344dd89374239932abb834f1ac98e
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************

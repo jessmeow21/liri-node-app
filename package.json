@@ -1,7 +1,7 @@
 {
   "name": "liri-node-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "About: Liri is a language interpretation and recognition interface. LIRI will be performed on the command line using node that takes in parameters and gives you back data.",
   "main": "liri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,5 +21,6 @@
     "dotenv": "^8.0.0",
     "moment": "^2.24.0",
     "node-spotify-api": "^1.1.1"
-  }
+  },
+  "devDependencies": {}
 }
