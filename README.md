@@ -37,7 +37,7 @@ node liri.js movie-this <name of movie>
 node liri.js do-what-it-says
     * Output: The app will read random.txt file and perform the command written in the file.
     As shown in the screen shot below:
-![](Screenshots/movie-this_do_what_it_says.png)
+![](Screenshots/do_what_it_says.png)
 
 ## Tech used
 * Javascript
