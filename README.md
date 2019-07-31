@@ -22,6 +22,8 @@ The commands the user may use are:
 * Command:
 node liri.js concert-this <name of band or artist>
     * Output: This will display a list of all the events and locations that the artist or band will perform. When running the command the results will be appended in the log.txt 
+    As shown in the screen shot below:
+    ![](Screenshots/concert-this.png)
 
 * Command: 
 node liri.js spotify-this-song <name of song>

@@ -944,3 +944,123 @@ preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a2
 album: NOW That's What I Call 90s Pop
 artist(s): Backstreet Boys
 *****************************
+**********MOVIE INFO*********
+Title: Batman
+Release Year: 1989
+IMDB Rating: 7.6
+Rotten Tomatoes Rating: 71%
+Country of Production: USA, UK
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+*****************************
+**********MOVIE INFO*********
+Title: Superman
+Release Year: 1978
+IMDB Rating: 7.4
+Rotten Tomatoes Rating: 94%
+Country of Production: USA, UK, Canada, Switzerland
+Language: English
+Plot: An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.
+Actors: Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+*****************************
+**********MOVIE INFO*********
+Title: Superman
+Release Year: 1978
+IMDB Rating: 7.4
+Rotten Tomatoes Rating: 94%
+Country of Production: USA, UK, Canada, Switzerland
+Language: English
+Plot: An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.
+Actors: Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Telenor Arena Shuttlebuss
+Venue Location: Oslo
+Date of the Event: 2019-09-07T19:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Royal Arena
+Venue Location: København S
+Date of the Event: 2019-09-08T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Mercedes-Benz Arena
+Venue Location: Berlin
+Date of the Event: 2019-09-10T20:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-09-12T20:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2019-09-14T00:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2019-09-15T00:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Arena Birmingham
+Venue Location: Birmingham
+Date of the Event: 2019-09-17T00:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: The Formula 1 Singapore Grand Prix
+Venue Location: Singapore
+Date of the Event: 2019-09-21T19:00:08
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Foro Sol
+Venue Location: Mexico City
+Date of the Event: 2019-10-02T20:30:12
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Foro Sol
+Venue Location: Mexico City
+Date of the Event: 2019-10-03T20:30:32
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6]
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-10-06T19:00:56
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Allianz Parque
+Venue Location: Sao Paulo
+Date of the Event: 2019-10-09T19:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Argentinian Racetrack of Palermo
+Venue Location: Comuna 14
+Date of the Event: 2019-10-11T19:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Pista Atletica
+Venue Location: Santiago
+Date of the Event: 2019-10-13T19:00:57
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: JOCKEY CLUB - LA PELOUSSE
+Venue Location: Lima
+Date of the Event: 2019-10-15T21:00:00
+*****************************
