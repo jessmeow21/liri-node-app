@@ -39,7 +39,7 @@ node liri.js do-what-it-says
     As shown in the screen shot below:
 ![](Screenshots/do_what_it_says.png)
 
-## Tech used
+## Tech Used
 * Javascript
 * Nodejs
 * Node packages: 
